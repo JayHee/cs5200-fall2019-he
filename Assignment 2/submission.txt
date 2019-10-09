@@ -1,4 +1,0 @@
-the host name:http://cs5200-fall2019-he.coh9i8qq5ew6.us-east-2.rds.amazonaws.com
-username:jiachenghe
-passwork:Jasonavikki928
-port:3306
